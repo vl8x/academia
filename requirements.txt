@@ -1,3 +1,5 @@
 pandas
 plotly.express
 ipywidgets
+pyarrow
+fastparquet
